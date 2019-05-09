@@ -1,3 +1,17 @@
+# **Blog**
+
+A simple blog built using gridsome simple markdown files. Copied shamelessly from https://github.com/gridsome/gridsome-starter-blog  Live wip @ https://dbt.juggalo.tech
+
+## **TODO**
+
+- Remove/replace links and image
+- Make or edit existing post template
+- Make posts
+
+Drive it like you stole it.  Starter info below the fold.
+
+***
+
 # Gridsome Blog Starter
 
 > A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
