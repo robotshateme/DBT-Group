@@ -1,8 +1,8 @@
 <template>
 	<div class="author">
-
-		<g-image alt="Author image" class="author__image" src="~/assets/images/author.jpg" width="180" height="180" blur="5" />
-
+		<!-- uncomment below to restore image-->
+		<!--<g-image alt="Author image" class="author__image" src="~/assets/images/author.jpg" width="180" height="180" blur="5" /> -->
+		<g-image alt="Author image" class="author__image" src="~/assets/images/awesome.jpg" width="180" height="180" blur="5" />
 		<h1 v-if="showTitle" class="author__site-title">
 			{{ $static.metaData.siteName }}
 		</h1>
@@ -42,8 +42,8 @@ export default {
 
 	&__image {
 		border-radius: 100%;
-		width: 90px;
-		height: 90px;
+		width: 250px;
+		height: 180px;
 		margin-bottom: 1em;
 	}
 
