@@ -8,12 +8,12 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+			A resource blog for the Clear Mind Path Skills Group at Elizabeth Upjohn Healing Center.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="//twitter.com/robotshateme">Follow on Twitter</a>
+			<a href="//github.com/robotshateme/DBT-Group">GitHub</a>
 		</p>
 
 	</div>
