@@ -18,5 +18,7 @@ While Markdown's syntax has been influenced by several existing text-to-HTML fil
 inspiration for Markdown's syntax is the format of plain text email.
 
 [GOOGLE DRIVE](https://drive.google.com/drive/folders/1bpHUdZujRHkAIjNTC1k7nYgVTUC0iSHQ?usp=sharing "Google Drive")
+
 [Sam Harris - Lessons](https://drive.google.com/drive/folders/1ewTHUfo43ciE5wARNP6ht1wXCfVDw_2G?usp=sharing "Sam Harris - Lessons)
+
 [Sam Harris - Meditation](https://drive.google.com/drive/folders/1gqrujjQ2kC7KGxdHbhKqF8HFMVj5CSgS?usp=sharing "Sam Harris - Meditation")
