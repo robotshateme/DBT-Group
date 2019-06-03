@@ -1,6 +1,6 @@
 ---
 title: A post with a cover image
-date: 2019-07-02
+date: 2019-06-02
 published: true
 tags: ['DBT', 'Cover Image']
 series: false
