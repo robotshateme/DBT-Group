@@ -1,8 +1,8 @@
 ---
 title: A post with a cover image
-date: 2019-01-07
+date: 2019-07-02
 published: true
-tags: ['Markdown', 'Cover Image']
+tags: ['DBT', 'Cover Image']
 series: false
 cover_image: ./images/radical.jpg
 canonical_url: false
