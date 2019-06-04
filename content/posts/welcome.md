@@ -1,8 +1,8 @@
 ---
-title: A post with a cover image
+title: Welcome
 date: 2019-06-03
 published: true
-tags: ['DBT', 'Cover Image']
+tags: ['DBT', 'Google Drive']
 series: false
 cover_image: ./images/radical.jpg
 canonical_url: false
