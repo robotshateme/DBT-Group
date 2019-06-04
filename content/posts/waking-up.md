@@ -1,7 +1,8 @@
 ---
-title: Say hello to Gridsome 🎉
+title: Waking Up with Sam Harris
 date: 2019-02-07
 tags: ['Markdown', 'Releases']
+cover_image: ./images/waking-up.jpg
 canonical_url: false
 description: "A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!"
 
@@ -82,3 +83,8 @@ In the next couple of months we're going to continue to improve the docs, create
 We're currently just two brothers working on this, so any contribution is very welcome. We're passionate about building a faster web and make website building fun again.
 
 You can also support us by giving [a GitHub star ★](https://github.com/gridsome/gridsome/stargazers) and spread the word :)
+
+
+[Sam Harris - Lessons](https://drive.google.com/drive/folders/1ewTHUfo43ciE5wARNP6ht1wXCfVDw_2G?usp=sharing "Sam Harris - Lessons")
+
+[Sam Harris - Meditation](https://drive.google.com/drive/folders/1gqrujjQ2kC7KGxdHbhKqF8HFMVj5CSgS?usp=sharing "Sam Harris - Meditation")
