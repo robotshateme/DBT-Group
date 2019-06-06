@@ -1,13 +1,13 @@
 ---
 title: Waking Up with Sam Harris
-date: 2019-02-07
-tags: ['Markdown', 'Releases']
+date: 2019-06-06
+tags: ['DBT', 'Meditation']
 cover_image: ./images/waking-up.jpg
 canonical_url: false
-description: "A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!"
+description: "Sam Harris yada yada!"
 
 ---
-
+<!--
 A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!
 
 We think **Gridsome** is a missing piece to the Vue.js ecosystem. What Gatsby.js does for React.js is a game changer in how we build websites.  React.js is excellent, but we think Vue.js is more approachable for most web designers and devs getting started with JAMstack. Gridsome is the Vue.js alternative to Gatsby.
@@ -84,6 +84,7 @@ We're currently just two brothers working on this, so any contribution is very w
 
 You can also support us by giving [a GitHub star ★](https://github.com/gridsome/gridsome/stargazers) and spread the word :)
 
+-->
 
 [Sam Harris - Lessons](https://drive.google.com/drive/folders/1ewTHUfo43ciE5wARNP6ht1wXCfVDw_2G?usp=sharing "Sam Harris - Lessons")
 
