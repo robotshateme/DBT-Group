@@ -6,7 +6,7 @@ tags: ['DBT', 'Google Drive']
 series: false
 cover_image: ./images/radical.jpg
 canonical_url: false
-description: "Placeholder."
+description: "This is a resource site for the Clear Mind Path Skills Group."
 ---
 
 <!--Readability, however, is emphasized above all else. A Markdown-formatted
