@@ -8,6 +8,7 @@ A simple blog built using gridsome simple markdown files. Copied shamelessly fro
 - Make or edit existing post template
 - Make posts
 - Update material
+- Publish
 
 Drive it like you stole it.  Starter info below the fold.
 
