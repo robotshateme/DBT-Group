@@ -86,6 +86,8 @@ You can also support us by giving [a GitHub star ★](https://github.com/gridsom
 
 -->
 
+Some Sam Harris material.
+
 [Sam Harris - Lessons](https://drive.google.com/drive/folders/1ewTHUfo43ciE5wARNP6ht1wXCfVDw_2G?usp=sharing "Sam Harris - Lessons")
 
 [Sam Harris - Meditation](https://drive.google.com/drive/folders/1gqrujjQ2kC7KGxdHbhKqF8HFMVj5CSgS?usp=sharing "Sam Harris - Meditation")
