@@ -592,9 +592,9 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@gridsome/cli@^0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@gridsome/cli/-/cli-0.0.8.tgz#494902b8fb53093113bed995790beae7ccd916ea"
+"@gridsome/cli@^0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@gridsome/cli/-/cli-0.0.9.tgz#8adc7b6c809dc85e5993bc496f2c6ee42930ad7c"
   dependencies:
     "@hjvedvik/tasks" "^0.0.8"
     chalk "^2.4.1"
@@ -3281,12 +3281,12 @@ gray-matter@^4.0.2:
     section-matter "^1.0.0"
     strip-bom-string "^1.0.0"
 
-gridsome@^0.5.0:
-  version "0.5.4"
-  resolved "https://registry.yarnpkg.com/gridsome/-/gridsome-0.5.4.tgz#d45e61dfdce187eac56b56fcfc4b3f70899def2f"
+gridsome@^0.5.8:
+  version "0.5.8"
+  resolved "https://registry.yarnpkg.com/gridsome/-/gridsome-0.5.8.tgz#aff05b732f0c628d6a7d3c3277821c64a05e5a75"
   dependencies:
     "@babel/core" "^7.0.0"
-    "@gridsome/cli" "^0.0.8"
+    "@gridsome/cli" "^0.0.9"
     "@sindresorhus/slugify" "^0.8.0"
     "@vue/babel-preset-app" "^3.4.0"
     "@vue/component-compiler-utils" "^2.5.2"
@@ -3321,7 +3321,7 @@ gridsome@^0.5.0:
     imagemin-webp "^5.0.0"
     is-relative "^1.0.0"
     is-url "^1.2.4"
-    jest-worker "^24.0.0"
+    jest-worker "24.0.0"
     json-loader "^0.5.7"
     loader-utils "^1.2.3"
     lodash "^4.17.11"
@@ -4067,7 +4067,7 @@ javascript-stringify@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/javascript-stringify/-/javascript-stringify-1.6.0.tgz#142d111f3a6e3dae8f4a9afd77d45855b5a9cce3"
 
-jest-worker@^24.0.0:
+jest-worker@24.0.0:
   version "24.0.0"
   resolved "https://registry.yarnpkg.com/jest-worker/-/jest-worker-24.0.0.tgz#3d3483b077bf04f412f47654a27bba7e947f8b6d"
   dependencies:
@@ -5817,9 +5817,9 @@ querystring@0.2.0, querystring@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/querystring/-/querystring-0.2.0.tgz#b209849203bb25df820da756e747005878521620"
 
-querystringify@^2.0.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.1.0.tgz#7ded8dfbf7879dcc60d0a644ac6754b283ad17ef"
+querystringify@^2.1.1:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.2.0.tgz#3345941b4153cb9d082d8eee4cda2016a9aef7f6"
 
 randombytes@^2.0.0, randombytes@^2.0.1, randombytes@^2.0.5:
   version "2.1.0"
@@ -7243,10 +7243,10 @@ url-parse-lax@^3.0.0:
     prepend-http "^2.0.0"
 
 url-parse@^1.4.3:
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.4.tgz#cac1556e95faa0303691fec5cf9d5a1bc34648f8"
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.1.tgz#d5fa9890af8a5e1f274a2c98376510f6425f6e3b"
   dependencies:
-    querystringify "^2.0.0"
+    querystringify "^2.1.1"
     requires-port "^1.0.0"
 
 url-to-options@^1.0.1:
